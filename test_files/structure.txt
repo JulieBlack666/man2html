@@ -1,0 +1,11 @@
+.TH TEST 1
+.SH NAME
+smth
+.SH LOL
+kek
+.PP
+cheburek
+.SH OPTIONS
+.TP
+\-meow
+cats are cool

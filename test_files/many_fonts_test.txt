@@ -1,0 +1,14 @@
+.TH FONTS 0
+.SH NAME
+.B bold
+.I italic
+.IB italic bold
+.IR italic roman
+.BI bold italic
+.BR bold roman
+.RB roman bold
+.RI roman italic
+.PP
+.SM small
+.SB small bold
+
